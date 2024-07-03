@@ -141,11 +141,3 @@ const currentYear = new Date().getFullYear();
 
 // Update the span element with the current year
 document.getElementById("current-year").textContent = currentYear;
-
-// JavaScript to hide loading spinner after 3 seconds
-window.addEventListener("load", function () {
-  const loading = document.querySelector(".loading");
-  setTimeout(function () {
-    loading.style.display = "none";
-  }, 3000); // 3000 milliseconds = 3 seconds
-});

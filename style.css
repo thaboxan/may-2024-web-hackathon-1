@@ -1498,3 +1498,11 @@ button {
     margin-top: 6rem;
   }
 }
+
+#hover {
+  font-family: "Playwrite ES Deco", cursive;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style:normal;
+  font-size: large;
+}
