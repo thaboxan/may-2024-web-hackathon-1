@@ -879,6 +879,7 @@ button {
   color: #fafafa;
   font-weight: 300;
   z-index: 999;
+  text-shadow: 2px 4px 10px black;
 }
 
 .heading__line-1 {
